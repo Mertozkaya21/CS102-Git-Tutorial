@@ -60,5 +60,6 @@ public class Cipher
         
         // if we did not find it in the alphabet, then return the original char
         return inputChar;
+        
     }
 }   
